@@ -95,7 +95,7 @@ public class PacienteServlet extends HttpServlet {
             "<h3 class=\"text-success\">Listado de Pacientes</h3>\n" +
             "<br>\n" +
             "<a href=\"newPaciente.jsp\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Nuevo Paciente</button></a>\n" +
-            "<a href=\"index.html\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Menú</button></a>\n" +
+            "<a href=\"menu.html\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Menú</button></a>\n" +
             "<table class=\"table table\">\n" +
             "<tr>\n" +
             "<th>IdPaciente</th>\n" +

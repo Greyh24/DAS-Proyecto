@@ -98,7 +98,7 @@ public class Doctor extends HttpServlet {
             "<h3 class=\"text-success\">Listado de Doctores</h3>\n" +
             "<br>\n" +
             "<a href=\"nuevodoctor.jsp\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Nuevo Doctor</button></a>\n" +
-            "<a href=\"index.html\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Menú</button></a>\n" +
+            "<a href=\"menu.html\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Menú</button></a>\n" +
             "<table class=\"table table\">\n" +
             "<tr>\n" +
             "<th>Id_Medico</th>\n" +

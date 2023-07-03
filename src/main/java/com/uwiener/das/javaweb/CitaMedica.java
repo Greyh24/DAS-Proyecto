@@ -97,7 +97,7 @@ public class CitaMedica extends HttpServlet {
             "<h3 class=\"text-success\">Listado de Citas Médicas</h3>\n" +
             "<br>\n" +
             "<a href=\"newCitaMedica.jsp\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Nueva Cita Médica</button></a>\n" +
-            "<a href=\"index.html\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Menú</button></a>\n" +
+            "<a href=\"menu.html\"><button class=\"btn btn-success glyphicon glyphicon-new-window\">Menú</button></a>\n" +
             "<table class=\"table table\">\n" +
             "<tr>\n" +
             "<th>IdCita</th>\n" +

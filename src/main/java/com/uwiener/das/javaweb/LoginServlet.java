@@ -42,7 +42,7 @@ public class LoginServlet extends HttpServlet {
                 // Redirigir a una página de inicio o mostrar contenido adicional
                 response.setContentType("text/html;charset=UTF-8");
                 PrintWriter out = response.getWriter();
-                response.sendRedirect("index.html");                
+                response.sendRedirect("menu.html");                
             } else {
                 // Credenciales incorrectas, redirigir nuevamente a la página de inicio de sesión o mostrar mensaje de error
                 response.sendRedirect("Principal.html");
